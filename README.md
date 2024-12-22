@@ -1,7 +1,3 @@
-Here's the README file with the OTA name "Safarim":
-
-Safarim_README.md
-
 Welcome to Safarim
 
 Safarim is an online platform that connects travelers with a wide range of travel options, including flights, hotels, rental cars, and travel packages.
